@@ -1,0 +1,7 @@
+task\manager\task\manager\enums\PriorityValue$1.class
+task\manager\task\manager\enums\PriorityValue.class
+task\manager\task\manager\logic\handler\StudentHandler.class
+task\manager\TaskManager.class
+task\manager\task\manager\model\Student.class
+task\manager\task\manager\enums\EGrades.class
+task\manager\task\manager\controllers\HelloController.class
